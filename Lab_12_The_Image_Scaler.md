@@ -5,6 +5,8 @@
 **Due:** April 25, 2027  
 **Value:** 100 points
 
+**Starter repository:** [Open the Spring 2027 starter](https://github.com/cwillpinto/cs411-spring2027-lab12-the-image-scaler)
+
 ## Purpose
 
 Implement an event-driven image-scaling function. Measure cold and warm invocations separately, tolerate duplicate delivery, and explain which latency belongs to startup versus handler work.
