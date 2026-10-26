@@ -1,0 +1,4 @@
+__pycache__/
+.pytest_cache/
+Lab12_Timing.csv
+Lab12_Terminal.txt
